@@ -1,5 +1,5 @@
 ## Overview
-[brief_overview.pdf](https://github.com/mick593/railway-mini-game/files/8106541/brief_overview.pdf)
+![overview](https://user-images.githubusercontent.com/78305410/154896420-b3099155-f218-499b-96c9-4c0b67783559.png)
 
 ## Railway game
 
