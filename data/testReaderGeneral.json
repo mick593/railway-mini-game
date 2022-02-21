@@ -1,0 +1,71 @@
+{
+  "score": 12,
+  "map": 1,
+  "switches": [{
+    "PI": 0,
+    "position": [
+      3,
+      0
+    ]
+  }],
+  "stations": [
+    {
+      "passenger": [
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "station": 0,
+      "position": [
+        4,
+        0
+      ]
+    },
+    {
+      "passenger": [
+        0,
+        25,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "station": 1,
+      "position": [
+        0,
+        3
+      ]
+    }
+  ],
+  "trains": [
+    {
+      "size": 3,
+      "stop": true,
+      "position": [
+        0,
+        0
+      ],
+      "passenger": 0
+    },
+    {
+      "size": 3,
+      "stop": true,
+      "position": [
+        3,
+        3
+      ],
+      "passenger": 0
+    }
+  ]
+}
