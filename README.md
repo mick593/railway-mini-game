@@ -1,3 +1,8 @@
+## Overview
+![alt text](https://github.com/mick593/railway-mini-game/blob/main/brief_overview.pdf)
+
+
+
 ## Railway game
 
 ### About :
